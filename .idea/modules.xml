@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/btree/btree.iml" filepath="$PROJECT_DIR$/btree/btree.iml" />
       <module fileurl="file://$PROJECT_DIR$/data-structure.iml" filepath="$PROJECT_DIR$/data-structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/linked-list/linked-list.iml" filepath="$PROJECT_DIR$/linked-list/linked-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search.iml" filepath="$PROJECT_DIR$/search/search.iml" />
     </modules>
   </component>
 </project>

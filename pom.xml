@@ -10,6 +10,7 @@
     <modules>
         <module>linked-list</module>
         <module>btree</module>
+        <module>search</module>
     </modules>
     <packaging>pom</packaging>
 
