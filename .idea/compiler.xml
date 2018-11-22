@@ -9,6 +9,7 @@
         <module name="btree" />
         <module name="linked-list" />
         <module name="search" />
+        <module name="sort" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="data-structure" target="1.8" />
       <module name="linked-list" target="1.8" />
       <module name="search" target="1.8" />
+      <module name="sort" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
